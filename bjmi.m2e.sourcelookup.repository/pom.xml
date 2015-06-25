@@ -11,6 +11,7 @@
     <relativePath>../bjmi.m2e.sourcelookup-parent/pom.xml</relativePath>
   </parent>
   <artifactId>bjmi.m2e.sourcelookup.repository</artifactId>
+  <version>1.0</version>
   <packaging>eclipse-repository</packaging>
   <build>
     <plugins>
