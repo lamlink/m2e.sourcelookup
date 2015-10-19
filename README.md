@@ -1,5 +1,5 @@
 # m2e.sourcelookup
-Eclipse Plugin that provides Maven Dependencies as Source Container in JDT Launching Configuration.
+Eclipse Plugin that provides Maven Dependencies as Source Container in JDT Launching Configuration. 
 Update site (P2 Repo): https://bjmi.github.io/update-site/
 
 **Note:** Ensure artifact sources are present in local maven repository or enable Window>Preferences>Maven>*Download Artifact Sources* in Eclipse
