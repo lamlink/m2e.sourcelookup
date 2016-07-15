@@ -1,4 +1,4 @@
-# m2e.sourcelookup
+# m2e.sourcelookup（源码调试）
 Eclipse Plugin that provides Maven Dependencies as Source Container in JDT Launching Configuration.  
 Update site (P2 Repo): https://bjmi.github.io/update-site/
 
